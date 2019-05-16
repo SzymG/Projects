@@ -1,1 +1,1 @@
- 
+Example of a page based on a self-prepared, responsive, 12-column layout. The page is supposed to be compatible with the three sizes of devices. Styles were prepared using SASS - preprocessor scripting language.
