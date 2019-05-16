@@ -1,1 +1,1 @@
- 
+Project of fire warning system. Basing on the measurements of the temperature sensor and the smoke sensor, we alert about very high probability of fire. Additionally, we added user identification basing on the RFID card and using the web application, verified user is able to have access to graphs showing temperature and humidity in the room. User logged in as an administrator can also remove and add new users.
